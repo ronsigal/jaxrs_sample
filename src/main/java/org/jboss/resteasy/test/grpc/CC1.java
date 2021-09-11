@@ -1,7 +1,5 @@
 package org.jboss.resteasy.test.grpc;
 
-import java.io.IOException;
-
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 
